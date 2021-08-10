@@ -62,7 +62,7 @@ Alpha; Alpha UserBot,Made by sreezz-ai
 Click WA logo to join our official group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DQmOkafYuZGFDBWVcGB0Gw)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](http://wa.me/+918921936055)
   <div align="center">
   </div>
 ## 🔎 What is Alpha bot?
